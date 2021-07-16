@@ -3,6 +3,3 @@
 
 ### Why?
 #### Security reasons? Maybe because it's 2019 and unless you have specific use-cases, 32 bit software should no longer exist?
-
-### A Hardcoded Syscall?
-#### Yeah, it's not portable like this, maybe I'll change that... this is a POC anyway.   
